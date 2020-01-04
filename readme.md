@@ -1,4 +1,4 @@
-Aulasoft web: Sistema web para la gestión de alumnos y personal de instituciones educativas de nivel secundario.
+Aulasoft web: Sistema web para la gestión de alumnos y personal en instituciones educativas de nivel secundario.
 
 Desarrollado en Laravel, VueJS y MySQL.
 
