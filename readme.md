@@ -1,3 +1,7 @@
+Aulasoft web: Sistema web para la gestión de alumnos y personal de instituciones educativas de nivel secundario.
+
+Desarrollado en Laravel, VueJS y MySQL.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
